@@ -1,0 +1,19 @@
+
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .resizingLogo{
+    width: 220px;
+    height: 60px;
+    margin-right: 100px;
+  }
+  .nav-item{
+    font-size: 18px;
+    margin-left: 120px;
+  }
+
+  .thumb-image{
+    width: 100px;
+}
